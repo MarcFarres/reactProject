@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+// hola
 function App() {
   return (
     <div className="App">
@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://reactjs.com"
           target="_blank"
           rel="noopener noreferrer"
         >
